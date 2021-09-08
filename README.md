@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gleydsonilo</h1>
-- 🌱 I’m currently learning **Spring** **Framework**
+
+- 🌱 I’m currently learning **Spring Framework**
 
 - 💬 Ask me about **Java**
 
